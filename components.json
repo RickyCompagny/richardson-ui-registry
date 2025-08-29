@@ -19,6 +19,7 @@
   },
   "iconLibrary": "lucide",
   "registries": {
-    "@tailark": "https://tailark.com/r"
+    "@tailark": "https://tailark.com/r",
+    "@originui": "https://originui.com/r"
   }
 }
